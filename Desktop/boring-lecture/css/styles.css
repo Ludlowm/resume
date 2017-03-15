@@ -1,3 +1,6 @@
+.rando {
+  font-style: italic;
+}
 img{
   display: block;
   margin: auto;
@@ -7,21 +10,26 @@ img{
 
 img.intro{
   width: 400px;
+  display: block;
+  margin: auto;
   height: auto;
-
 }
-p.intro{
-  font-size: 20px;
+h2{
+  font-family:fantasy;
   text-align: center;
-}
-
-.intro{
-  font-family:fantasy;;
-}
-p{
-  text-align: center;
-  font-family: sans-serif;
 }
 h1{
   text-align: center;
+}
+
+.important {
+  color: red;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.unimportant {
+  color: blue;
+  text-align: center;
+  font-family: sans-serif;
 }
