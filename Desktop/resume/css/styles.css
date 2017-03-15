@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  font-size: 45px;
+}
+h2 {
+  text-decoration: underline;
+}
+.education {
+  margin-left: 20px;
+}
+
+.work {
+margin-left: 20px;
+}
+
+.skills {
+margin-left: 20px;
+}
+p {
+margin-left: 20px;
+font-size: 20px;
+
+}
+div {
+  font-family: sans-serif;
+}
+span {
+  font-weight: bold;
+  font-style: italic;
+}
