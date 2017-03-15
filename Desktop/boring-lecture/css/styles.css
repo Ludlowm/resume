@@ -1,0 +1,27 @@
+img{
+  display: block;
+  margin: auto;
+  width: 800px;
+  height: auto;
+}
+
+img.intro{
+  width: 400px;
+  height: auto;
+
+}
+p.intro{
+  font-size: 20px;
+  text-align: center;
+}
+
+.intro{
+  font-family:fantasy;;
+}
+p{
+  text-align: center;
+  font-family: sans-serif;
+}
+h1{
+  text-align: center;
+}
